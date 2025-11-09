@@ -12,7 +12,6 @@ The primary challenge in this competition is to create a model that can accurate
 ## File Descriptions
 - `cnn-cancer-detection-kaggle-mini-project.ipynb`: The main Jupyter notebook with the CNN model development and training process.
 - `README.md`: The file you are currently reading, containing information about this project.
-- `sample_submission.csv`: A sample of the format that Kaggle expects for submissions.
 - `submission.csv`: The final submission file with predictions made by the trained model.
 
 ## Installation
